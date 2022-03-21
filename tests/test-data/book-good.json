@@ -1,0 +1,79 @@
+{
+    "asin": "A0A0A0A0A0",
+    "title": "A Book (With Parentheses)",
+    "authors": "An Author, Another Author, and Third Author",
+    "highlights": [
+      {
+        "text": "Laborum officia ad magna pariatur id.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=115",
+          "value": 115
+        },
+        "note": null
+      },
+      {
+        "text": "Excepteur culpa elit voluptate qui nostrud cupidatat id culpa. Voluptate occaecat mollit velit duis sunt sint non proident voluptate tempor officia ex aute. Velit aliqua quis labore deserunt Lorem consectetur aliqua ipsum velit pariatur incididunt elit enim velit. Nisi aliqua amet ullamco exercitation Lorem excepteur.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "Aliquip id anim velit in."
+      },
+      {
+        "text": "",
+        "isNoteOnly": true,
+        "location": {
+            "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=200",
+            "value": 200
+        },
+        "note": "Elit non occaecat sit aliquip ullamco enim culpa est eiusmod ullamco labore."
+      },
+      {
+        "text": "Лорем ипсум долор сит амет, видит децоре солеат дуо ин, сцаевола легендос хендрерит ин вим. Меа цасе цорпора делицата ад. Сед те нихил фуиссет, цу порро граецис фацилиси вел, еум путент сапиентем не! Цонгуе нонумы иус ад, меа те поссим.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "Cyrillic."
+      },
+      {
+        "text": "育ぴくゅて住一ねりぼ医続ヤ検当関イホヱ流動イモ南更司テチレソ蜻載ルラサヨ交演む練研フを産7割ゅ応盗聞ぐぼレゆ済犬ルシナ送明曽膨ざす。断ずたざス退米だ速86属カチ県9海曲ーちは本者モタチル紹逮ロハスア本設ワス扱冷新ごあびド与芸ち伝傾ょ短和ラひ店食程配株刑ぼかに。音ホナマソ必商込寧リ会技れゅぐづ級育ろまくふ奥倉キラ込主エキ刺一ちば験覧メツ線69偉げレンま店2示りん権車丼さンれ。",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "Japanese."
+      },
+      {
+        "text": "بعد ديسمبر الدولارات ثم, بل فكان وصغار اتفاقية حين. لعدم البشريةً ما دون, ذلك كانت أوراقهم انتصارهم أم. جعل وترك الباهضة مع. بعد وبعض مرمى كنقطة عل, كل حاول الطريق ولم.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "Arabic (RTL)."
+      },
+      {
+        "text": "Lôrèm îpsùm dolor sit amet, apêrirï dëtraxît pêténtiûm pri êx, duô an œmnis rëpûdîaré. Sêa îd légendôs inçorrûpte. Nibh étiam èssënt èst no. Ad nâm simùl éfficiantur, séd àliî tâcîmatés éa. Est cû deleçtus êlaborarèt, illùm vêlït glorîatur ïn usû, séd tïbiqùê opôrtere évértitûr ea.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "French."
+      },
+      {
+        "text": "Lorem ipsum dolor sit amet, in duo labore suscipit indoctum, nostro verterem salutatus et vis. Ea sea quot consul, populo primis sententiae mei ne! No mei autem affert tincidunt, te clita phaedrum vix, pri oratio constituam ut! Vix facer mazim similique cu. Mea cibo nobis vocent cu, harum antiopam delicatissimi an usu? An vim harum dictas electram, cum et illum voluptua!",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=170",
+          "value": 170
+        },
+        "note": "Punctuation."
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "asin": "A0A0A0A0A0",
+    "title": "A Book (With Parentheses)",
+    "authors": "An Author, Another Author, and Third Author",
+    "highlights": [
+      {
+        "text": "Laborum officia ad magna pariatur id.",
+        "isNoteOnly": false,
+        "location": {
+          "url": "kindle://book?action=open&asin=A0A0A0A0A0&location=115",
+          "value": 115
+        },
+        "note": null
+      }
+    ]

@@ -1,0 +1,14 @@
+<book>
+  <title>A Book Title</title>
+  <authors>The Author</authors>
+  <highlights>
+    <highlight isNoteOnly="false">
+      <text>Excepteur consequat anim anim occaecat est excepteur anim incididunt sunt ex duis.</text>
+      <location url="kindle://book?action=open&amp;asin=B004GUTEAM&amp;location=16">16</location>
+    </highlight>
+    <highlight isNoteOnly="false">
+      <text>Aliquip aute non sit eiusmod ea do dolore anim.</text>
+      <location url="kindle://book?action=open&amp;asin=B004GUTEAM&amp;location=17">17</location>
+    </highlight>
+  </highlights>
+</book>
