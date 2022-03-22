@@ -35,7 +35,7 @@ To submit a bug report or make a feature request, [create an issue](https://gith
 
 The development repository is located at [https://github.com/mikethicke/kindletomd](https://github.com/mikethicke/kindletomd).
 
-Pull Requests should be accompianed by unit tests that fail before the changes are implemented and pass afterwards.
+Pull Requests should be accompianed by unit tests that fail before the changes are merged and pass afterwards.
 
 This project follows Google's [Python Style Guide](https://google.github.io/styleguide/pyguide.html).
 
