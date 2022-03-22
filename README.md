@@ -27,6 +27,10 @@ To import to another Python script:
 import kindle_to_md
 ```
 
+## Bug Reports and Feature Requests
+
+To submit a bug report or make a feature request, [create an issue](https://github.com/mikethicke/kindletomd/issues/new) on the GitHub repostitory.
+
 ## Development
 
 The development repository is located at [https://github.com/mikethicke/kindletomd](https://github.com/mikethicke/kindletomd).
@@ -44,7 +48,7 @@ Sample development workflow (for MacOS / Linux):
 3. Create a virtual environment: ```python3 -m venv venv```
 4. Activate the virtual environment: ```source venv/bin/activate```
 5. Install development dependencies: ```pip install -r requirements.txt```
-6. Write test or tests that fail for the bug you are addressing or feature you are developing. Tests are located in the tests directory. Avoid putting test data directly in the unit tests themselves. Instead, put data in ```test-data``` directory or in ```conftest.py```. This makes it easier to reuse data in other tests. If your test addresses a specific issue, reference the issue in the test's docblock.
+6. Write test or tests that fail for the bug you are addressing or feature you are developing. Tests are located in the ```tests``` directory. Avoid putting test data directly in the unit tests themselves. Instead, put data in ```test-data``` directory or in ```conftest.py```. This makes it easier to reuse data in other tests. If your test addresses a specific issue, reference the issue in the test's docblock.
 7. Build the package: ```python -m build```
 8. Install the package locally: ```pip install dist/{pacakge}.tar.gz```
 9. Run pytest:
